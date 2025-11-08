@@ -24,7 +24,7 @@ const projects: Project[] = [
   },
   {
     name: 'ALGOVERSE',
-    description: 'Vendor-Trainer Management platform streamlining recruitment and training coordination for enterprises.',
+    description: 'Algoverse is space where students can visualise the algorithms in DSA ,to get better insight and understanding.',
     techStack: ['HTML', 'CSS', 'JS',],
     category: 'Web',
     liveDemo: 'https://algoversesm.netlify.app/',
