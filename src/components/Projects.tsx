@@ -47,7 +47,7 @@ const projects: Project[] = [
     category: 'Game',
     liveDemo: 'https://scramb.vercel.app/',
     github: '#',
-    image: 'https://ik.imagekit.io/ul4fxruo1/scramble.jpg?updatedAt=1762532835325',
+    image: 'https://ik.imagekit.io/ul4fxruo1/scrable.png?updatedAt=1762579691307',
   },
 ];
 
